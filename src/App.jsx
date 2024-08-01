@@ -3,7 +3,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import About from "./components/About";
 import Services from "./components/Services";
-import Doctors from "./components/Doctors";
+
 import CallToAction from "./components/CallToAction";
 import CallToAction2 from "./components/CallToAction2";
 import Footer from "./components/Footer";
@@ -26,9 +26,7 @@ const App = () => {
           <Services />
         </div>
 
-        <div id="doctors">
-          <Doctors />
-        </div>
+        
 
         <div id="pendaftaran">
           <CallToAction />

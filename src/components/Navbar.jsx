@@ -63,15 +63,7 @@ const Navbar = () => {
             >
               Layanan
             </Link>
-            <Link
-              to="doctors"
-              spy={true}
-              smooth={true}
-              duration={500}
-              className=" hover:text-hoverColor transition-all cursor-pointer"
-            >
-              Staff Kami
-            </Link>
+            
             <Link
               to="pendaftaran"
               spy={true}
@@ -139,16 +131,7 @@ const Navbar = () => {
           >
             Layanan
           </Link>
-          <Link
-            to="doctors"
-            spy={true}
-            smooth={true}
-            duration={500}
-            className=" hover:text-hoverColor transition-all cursor-pointer"
-            onClick={closeMenu}
-          >
-            Staff Kami
-          </Link>
+          
           <Link
             to="pendaftaran"
             spy={true}
