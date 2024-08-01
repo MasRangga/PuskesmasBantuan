@@ -6,7 +6,7 @@ const Home = () => {
       <div className=" w-full lg:w-4/5 space-y-5 lg:mt-10 mt-20 mb-5">
         <h1 className="text-5xl font-bold leading-tight">Selamat Datang</h1>
         <h1 className="text-5xl font-bold leading-tight">
-          Di Puskesmas Bantuan Muara Jawa Ilir
+          Di Puskesmas Pembantu Muara Jawa Ilir
         </h1>
         <p>
           Pusban menyediakan layanan kesehatan progresif dan terjangkau bagi ibu

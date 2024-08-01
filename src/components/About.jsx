@@ -9,7 +9,7 @@ const About = () => {
           Tentang Kami
         </h1>
         <p className=" text-justify lg:text-start">
-          Puskesmas Bantuan (Pusban) merupakan salah satu jenis pusat kesehatan
+          Puskesmas Pembantu (Pusban) merupakan salah satu jenis pusat kesehatan
           masyarakat di Indonesia yang berfungsi menyediakan layanan kesehatan
           dasar bagi masyarakat, terutama di wilayah-wilayah dengan akses
           terbatas terhadap fasilitas kesehatan utama, seperti daerah terpencil
